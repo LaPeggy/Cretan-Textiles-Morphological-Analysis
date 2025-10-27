@@ -1,4 +1,4 @@
-# 🧵 Cretan Textiles – Morphological Analysis
+# Cretan Textiles – Morphological Analysis
 
 ##  1. Introduction
 Weaving is one of the oldest and most meaningful forms of folk art in Crete, connecting daily life with aesthetic expression and social identity.  
@@ -34,7 +34,7 @@ Cretan weaving reflects the social life, values, and spirituality of the island�
 This research achieved the documentation and interpretation of morphological diversity among Cretan textiles, emphasizing the need for preservation and continued practice.  
 Traditional weaving is not just a heritage of the past — it remains a living cultural expression, inspiring contemporary creativity.
 
-## ✍️ Author
+##  Author
 **Name:** *[Panagiota Latsi]*  
 **Year:** 2025  
 **Subject:** Morphological  Guide of  Traditional Cretan Textiles  on the Web
